@@ -30,7 +30,7 @@ class Heroi{
 // Criação de um herói do tipo guerreiro
 let Heroi1 = new Heroi ("Arcadius", 70, "mago")
 let Heroi2 = new Heroi ("Arthur", 50, "guerreiro")
-let heroi3 = new Heroi ("Valen", 90, "monge")
+let Heroi3 = new Heroi ("Valen", 90, "monge")
 let Heroi4 = new Heroi ("Takeda", 45, "ninja")
 
 
