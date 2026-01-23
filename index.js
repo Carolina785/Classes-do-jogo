@@ -37,5 +37,5 @@ let Heroi4 = new Heroi ("Takeda", 45, "ninja")
 // Chama o método atacar
 Heroi1.atacar()
 Heroi2.atacar()
-heroi3.atacar()
+Heroi3.atacar()
 Heroi4.atacar()
